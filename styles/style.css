@@ -1,0 +1,23 @@
+html {
+  background-color : #F70C0C; 
+}
+
+h1 {
+font-family: 'Courgette', cursive;
+text-align : center;
+color : white;
+}
+
+img {
+width : 600px;
+height : 600px;
+display : block;
+margin : 75px auto 10px auto;
+border : 10px solid white;
+}
+
+p {
+text-align : center;
+font-family: 'Courgette', cursive;
+color : black;
+}
