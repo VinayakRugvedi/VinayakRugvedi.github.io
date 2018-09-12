@@ -1,5 +1,5 @@
 html {
-  background-color : #F70C0C; 
+  background-color : #98050C; 
 }
 
 h1 {
@@ -14,6 +14,10 @@ height : 600px;
 display : block;
 margin : 75px auto 10px auto;
 border : 10px solid white;
+}
+
+a {
+  color : white;
 }
 
 p {
